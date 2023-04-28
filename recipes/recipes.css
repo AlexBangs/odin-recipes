@@ -1,7 +1,7 @@
 * {
 
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
-    background-color: #702963;
+    background-color: #659DBD;
 }
 
 .images {
@@ -13,14 +13,14 @@
 
 .title {
     font-weight: bold;
-    color: #EF8DA0;
+    color: #5D5C61;
     font-size: 24px;
     
 }
 .body {
 font-size: 16px;
     color: 
-    #EF8DA0;
+    #EDF5E1;
 }
     <style>
     a:link {
@@ -30,7 +30,7 @@ font-size: 16px;
     }
     
     a:visited {
-      color: pink;
+      color: rgb(18, 4, 95);
       background-color: transparent;
       text-decoration: none;
     }
